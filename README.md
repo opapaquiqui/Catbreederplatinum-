@@ -1,4 +1,3 @@
-
 # Cat Breeder Platinum
 
 A premium app for cat breeders, inspired by Bengals. Launching on Google Play with a $5/month subscription (1-year commitment).
