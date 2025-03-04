@@ -1,5 +1,3 @@
-# Catbreederplatinum-
-“App for cat breeders, $5/mo sub.”
 # Cat Breeder Platinum
 
 A premium app for cat breeders, inspired by Bengals. Launching on Google Play with a $5/month subscription (1-year commitment).
@@ -23,8 +21,8 @@ A premium app for cat breeders, inspired by Bengals. Launching on Google Play wi
 - **Launch**: Google Play ($25 fee)
 
 ## Get Involved
-We’re seeking free Flutter developers to bring this to life! Contribute for portfolio credit and be part of a unique app.  
-- **How**: Open an issue or DM me on X (@yourusername).
+Seeking free Flutter developers to bring this to life! Contribute for portfolio credit and join a unique project.  
+- **How**: Open an issue or DM me on X (@yourXhandle—update this!).
 - **Next Steps**: Build MVP (dashboard, profiles, kitten tracking) in 2-3 weeks.
 
 Let’s make Cat Breeder Platinum purr-fect together!
